@@ -1,62 +1,52 @@
-# Algebraic Number Theory II (2023 Fall) / 代数数论II
+# Algebraic Number Theory 2 / 代数数论 2
+
+_2023 Fall, Tsinghua University._
+
+### Course Syllabus
+
+_Click [here](./syllabus.pdf) to download a pdf version of syllabus._
+
+#### About Logistics
+
+The course is a continuation of _Algebra and Number Theory 1_, and it covers **Class Field Theory**. It plays a fundamental role in many branches of modern Number Theory, and thus it is one of the standard topics for Ph.D. students in the field. The course teaches the statements and proofs of Local and Global Class Field Theories. Along the way, we also discuss group cohomology and other related topics. Students will learn the course materials by attending lectures by the instructor and doing homework on a regular basis.
+
+- **Instructor:** Koji Shimizu (shimizu@tsinghua.edu.cn, Shuangqing Complex Building B621).
+- **Teaching Asistant**: Wenhan Dai (dwh23@mails.tsinghua.edu.cn).
+- **Time:** 8-9:35 am on Wednesdays; 1:30-3:05 pm on Fridays.
+- **Venue:** 6B204 in No. 6 Teaching Building.
+- **Prerequisites:** Algebra and Number Theory 1.
+
+The instructor will comply with the _Ten Guidelines of Professional Conduct for College Teachers in the New Era_ and the _Constitution of Tsinghua University_.
+
+#### About Grading
+
+- **Grading:** First Problem Set 20%, Second Problem Set 20%, Final Exam 60%. 
+- **Homework:** Homework consists of weekly reading assignments and two problem sets. The first problem set is due on October 31 and the second is due on December 5. The problems will be posted online two weeks before the deadline. No late submission will be accepted.
+- **Final Exam:** The final exam is cumulative and closed-book.
+- **Attendance:** You are expected to come prepared and actively participate in every lecture.
+
+#### About Office Hours
+
+- **Instructor's Office Hours:** 2-3 pm on Thursdays in Shuangqing Complex Building B621 (tentative).
+- **TA's Office Hours:** TBA. There will be extra office hours before the two homework submission deadlines.
+
+### Notes
+
+Course notes will be updated here.
+
+### Problem Sets
+
+Homeworks together with their solutions will be updated here.
+
+
+### References
+
+1. [AT09] Emil Artin and John Tate, _Class field theory_, AMS Chelsea Publishing, Providence, RI, 2009, Reprinted with corrections from the 1967 original.
+2. [CF10] J. W. S. Cassels and A. Fröhlich (eds.), _Algebraic number theory_, London Mathematical Society, London, 2010, Papers from the conference held at the University of Sussex, Brighton, September 1–17, 1965, Including a list of errata.
+3. [Mil20] J. S. Milne, _Class Field Theory_, 2020, Available [here](https://www.jmilne.org/math/CourseNotes/cft.html).
+4. [Ser79] Jean-Pierre Serre, _Local fields_, Graduate Texts in Mathematics, vol. 67, Springer-Verlag, New York-Berlin, 1979, Translated from the French by Marvin Jay Greenberg.
+
+
+
 
 _Last updated on: September 12, 2023_
-
-Hi!
-
-- [**Research / Expository Writings**](./blurbs.md).
-- [**Conference / Seminar Activities**](./activities.md).
-- [**Studying Notes Repository**](./notes.md).
-- [**Teaching Experiences**](./teaching.md).
-
-### About Me
-
-Since 2023 Fall, I am a first-year Ph.D. student at [Yau Mathematical Sciences Center](https://ymsc.tsinghua.edu.cn) (YMSC), China. My advisor [Yihang ZHU](http://math.umd.edu/~yhzhu/) / 朱艺航 also joins YMSC as a distinguished professor at the same time. 
-
-My research interest includes **number theory**, **arithmetic geometry**, and **(automorphic) representation theory**.
-
-Previousely, I have finished my Bachelor's Degree at [Peking University](https://www.pku.edu.cn) in June 2023. My supervisor was Professor [Liang XIAO](https://bicmr.pku.edu.cn/~lxiao/index.htm) / 肖梁 at [Beijing International Center for Mathematical Research](https://bicmr.pku.edu.cn) (BICMR). 
-
-A headshot of mine is posted [here](./headshot.jpg).
-
-**Regarding language skills:** Chinese native speaker; fluent in English and French at work.
-
-
-
-## Recent Updates
-
-1. This semester I work on geometry of Shimura varieties mod _p_, as well as arithmetic applications of Shimura varieties of abelian type.
-2. I will work as the teaching assistant for Algebraic Number Theory II (Lecturer: Koji Shimizu).
-
-
-### Ongoing/Upcoming Events
-
-#### 2023 Summer
-
-
-- [**The 5th _Kyoto+_ Conference on Algebraic Geometry and Arithmetic Geometry at Nanjing**](./Nanjing23/Nanjing23.md).
-
-  By Arithmetic & Homotopic Galois Theory, a France-Japan international network.
-  - **Time:** August 24 to 28.
-  - **Venue:** Yifu Hall, Nanjing University Gulou / 南京大学鼓楼校区逸夫馆.
-
-
-## Contact Info
-
-```
-School of Mathematical Science
-Peking University
-No.5 Yiheyuan Road, Haidian District
-Beijing, 100871, China
-
-Yau Mathematical Sciences Center
-Jing Zhai, Tsinghua University
-No.30 Shuangqing Road, Haidian District
-Beijing, 100084, China
-```
-
-**Email:** daiwenhan [at] pku [dot] edu [dot] cn (he/him/él/il)
-<br/>
-Bien que ce site ne soit disponible qu'en anglais, je peux répondre aux courriels en français (avec difficulté).
-
-![summer](./landscape-summer.png)
